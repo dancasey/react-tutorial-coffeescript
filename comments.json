@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "author": "John Smith",
+        "text": "John says hi."
+    },
+    {
+        "id": 2,
+        "author": "Abe Lincoln",
+        "text": "Abe *thinks* hi."
+    }
+]
